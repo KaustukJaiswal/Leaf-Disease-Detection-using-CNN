@@ -47,13 +47,8 @@ CNNs are chosen due to their capability to learn spatial hierarchies in image da
 
 ---
 
-## 🚀 Conclusion & Application
+## 🚀 Conclusion 
 
-This CNN-based plant disease detection model can be integrated into:
-
-- 📱 **Mobile apps** for farmers to scan leaves in real-time
-- 💻 **Advisory systems** for agronomists and extension workers
-- 🌾 **Agricultural decision support tools** for early warning and timely treatment
 
 By automating disease detection, this tool helps reduce crop loss, improve productivity, and empower farmers with modern AI-driven solutions.
 
